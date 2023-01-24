@@ -4,7 +4,7 @@
 - ✍ I am leaning Terraform from https://www.linkedin.com/company/cloudnloud/ and 
 - ✍ AWS from https://learn.cantrill.io/
 - 💞️ I’m looking to collaborate on building some projects for AWS 
-- 📫 You can reach out to me through LinkedIN https://www.linkedin.com/in/fawaz-c-p-5618b1183/
+- 📫 You can reach out to me through [LinkedIN](https://www.linkedin.com/in/fawaz-c-p-5618b1183/)
 
 <!---
 Fawazcp/Fawazcp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
