@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fawazcp
-- 👀 I’m interested in making a career in Cloud Commputing
+- 👀 I’m interested in making a career in Cloud Computing
 - 🌱 I’m currently learning AWS and Terraform. 
 - ✍ I am learning Terraform from https://www.linkedin.com/company/cloudnloud/ and 
 - ✍ AWS from https://learn.cantrill.io/
