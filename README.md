@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on AWS [12-week bootcamp](https://github.com/Fawazcp/aws-bootcamp-cruddur-2023)
 
-- 🌱 I’m currently learning **AWS, Terraform, and AWS bootcamp**
+- 🌱 I’m currently learning **AWS, Terraform, and Linux **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fawazcp](https://github.com/Fawazcp)
 
