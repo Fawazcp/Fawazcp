@@ -1,26 +1,21 @@
 <h1 align="center">Hi 👋, I'm Fawaz</h1>
 <h3 align="center">I am passionate about working in cloud computing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fawazcp&label=Profile%20views&color=0e75b6&style=flat" alt="fawazcp" /> </p>
+- 🔭 I’m currently working on AWS [12-week bootcamp](https://github.com/Fawazcp/aws-bootcamp-cruddur-2023)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fawazcp" alt="fawazcp" /></a> </p>
+- 🌱 I’m currently learning **AWS, Terraform, and AWS bootcamp**
 
-- 🔭 I’m currently working on AWS [12 week bootcamp](https://github.com/Fawazcp/aws-bootcamp-cruddur-2023)
-
-- 🌱 I’m currently learning **AWS, Terraform, AWS bootcamp**
+- 👨‍💻 All of my projects are available at [https://github.com/Fawazcp](https://github.com/Fawazcp)
 
 - 📝 I regularly write articles on [https://medium.com/@fawazcp](https://medium.com/@fawazcp)
 
 - 📫 How to reach me **Fawazmayyil80@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fawaz-c-p-5618b1183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fawaz-c-p-5618b1183" height="30" width="40" /></a>
 <a href="https://medium.com/@fawazcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fawazcp" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://m.youtube.com/c/cloudnloud?sub_confirmation=1&themerefresh=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://m.youtube.com/c/cloudnloud?sub_confirmation=1&themerefresh=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
