@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fawazcp](https://github.com/Fawazcp)
 
-- 📝 I regularly write articles on [https://medium.com/@fawazcp](https://medium.com/@fawazcp)
+- 📝 I regularly blogs on [https://medium.com/@fawazcp](https://medium.com/@fawazcp)
 
 - 📫 How to reach me **Fawazmayyil80@gmail.com**
 
