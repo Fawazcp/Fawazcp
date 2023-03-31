@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fawaz</h1>
 <h3 align="center">I am passionate about cloud computing</h3>
 
-- 🔭 I’m currently working on AWS [12-week bootcamp](https://github.com/Fawazcp/aws-bootcamp-cruddur-2023)
 
 - 🌱 I’m currently learning **AWS, and DevOps**
 
