@@ -38,6 +38,12 @@
 - [How to create Users and Groups in Ansible](https://medium.com/cloudnloud/how-to-create-users-and-groups-in-ansible-8280fb703fad)
 
 
+# PROJECTS
+
+-   [aws-Lift & Shift](https://github.com/Fawazcp/aws-project/tree/aws-LiftAndShift)
+-   [Refactoring with AWS](https://github.com/Fawazcp/aws-project/tree/aws-Refactor)
+-   CI with Jenkins
+
 
 
 
