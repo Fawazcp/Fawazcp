@@ -22,3 +22,20 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawazcp&show_icons=true&locale=en&layout=compact" alt="fawazcp" /></p>
 
+# AWS
+
+- [How to create an Ec2 Instance](https://medium.com/cloudnloud/how-to-create-an-ec2-instance-1eaa6858a5c9)
+- [My First S3 Bucket](https://medium.com/@fawazcp/my-first-s3-bucket-83e3cfb14f28)
+- [Create a Simple Monitoring with CloudWatch](https://medium.com/@fawazcp/create-a-simple-monitoring-with-cloudwatch-1fa3169ba5a1)
+- [IAM [Identity & Access Management]](https://medium.com/cloudnloud/iam-identity-access-management-5b86e18216dd)
+- [Creating a Static website with S3](https://medium.com/cloudnloud/creating-a-static-website-with-s3-bfabe9069a42)
+- [Key Management Service [KMS]](https://medium.com/cloudnloud/key-management-service-kms-f6f76bdcf704)
+- [What is S3 Replication? Create Cross-region replication](https://medium.com/cloudnloud/what-is-s3-replication-create-cross-region-replication-2c69ebaf98b3)
+- [Create an EC2 Instance using Custom VPC](https://medium.com/cloudnloud/create-an-ec2-instance-using-custom-vpc-f8c7310c063)
+- [Run Amazon Linux 2 as a virtual machine on-premises](https://medium.com/cloudnloud/run-amazon-linux-2-as-a-virtual-machine-on-premises-6cc80fa7941d)
+- [Create Auto-Scaling Group using Launch Configuration](https://medium.com/cloudnloud/create-auto-scaling-group-using-launch-configuration-af1fb3113d45)
+- [Create an EC2 Instance using Custom AMI](https://medium.com/cloudnloud/create-an-ec2-instance-using-custom-ami-92a180596823)
+- [Start / Stop EC2 instance using AWS Lambda](https://medium.com/cloudnloud/start-stop-ec2-instance-using-aws-lambda-d74b87fb4752)
+- [How to connect your Private machine using NAT instance/gateway](https://medium.com/cloudnloud/vpc-virtual-private-cloud-hands-on-4d530bd745ba)
+- [How to connect VPCs using Transit Gateway](https://medium.com/cloudnloud/how-to-connect-vpcs-using-transit-gateway-91aee756267e)
+- 
