@@ -28,6 +28,17 @@
 - [How to connect VPCs using Transit Gateway](https://medium.com/cloudnloud/how-to-connect-vpcs-using-transit-gateway-91aee756267e)
 
 
+# ANSIBLE
+
+- [How to Set Up Ansible Lab in GCP (Google Cloud Platform)](https://medium.com/cloudnloud/how-to-set-up-ansible-lab-in-gcp-google-cloud-platform-bb93be363664)
+- [My First Ansible Playbook](https://medium.com/cloudnloud/my-first-ansible-playbook-1da448e1c8ba)
+- [How to Avoid Syntax Errors in Ansible-Playbook](https://medium.com/cloudnloud/how-to-avoid-syntax-errors-in-ansible-playbook-e48a1c734600)
+- [How to Install Multiple Packages in Ansible](https://medium.com/cloudnloud/how-to-install-multiple-packages-in-ansible-e639a7fa13c5)
+- [Create Free Ansible Lab in AWS Account](https://medium.com/cloudnloud/create-free-ansible-lab-in-aws-account-6c5c96b2fd47)
+- [How to create Users and Groups in Ansible](https://medium.com/cloudnloud/how-to-create-users-and-groups-in-ansible-8280fb703fad)
+
+
+
 
 
 #### 📫 How to reach me **Fawazmayyil80@gmail.com**
