@@ -42,7 +42,7 @@
 
 -   [aws-Lift & Shift](https://github.com/Fawazcp/aws-project/tree/aws-LiftAndShift)
 -   [Refactoring with AWS](https://github.com/Fawazcp/aws-project/tree/aws-Refactor)
--   CI with Jenkins
+-   [Continuous Integration (CI) with Jenkins](https://medium.com/cloudnloud/continuous-integration-ci-with-jenkins-844d1ef7d82a)
 
 
 
