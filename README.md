@@ -1,3 +1,6 @@
+
+ <div id="header" align="center"> <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+
 <h1 align="center">Hi 👋, I'm Fawaz</h1>
 <h3 align="center">I am passionate about cloud computing and DevOps </h3>
 
