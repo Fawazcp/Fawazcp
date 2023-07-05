@@ -68,7 +68,9 @@
 
 ![12439_3_2311816_1665305099_AWS Course Completion Certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/0a805c05-caa4-4934-abc8-cbae3d41a7cb)
 
-![kkE9HyeNcw6rwCRGw_AWS APAC_CPP68tjfBsdTJDJDM_1665917073332_completion_certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/784902c8-56bb-457b-a49d-2f749beec27c)
+![kkE9HyeNcw6rwCRGw_AWS APAC_CPP68tjfBsdTJDJDM_1665917073332_completion_certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/784902c8-56bb-457b-a49d-2f749beec27c) 
+![certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/0626c75e-c5fd-4345-8cf0-0e381ed5c2a6)
+
 
 #### 📫 How to reach me **Fawazmayyil80@gmail.com**
 
