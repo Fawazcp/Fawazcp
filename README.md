@@ -51,6 +51,12 @@
 
 -   [PYTHON INTRODUCTION](https://medium.com/cloudnloud/python-introduction-a44ca423a73f)
 
+
+
+# Vlogs
+
+- [How to Set Up Ansible Lab in GCP (Google Cloud Platform)?](https://youtu.be/JgCG9OqSp8M)
+- [How to connect EC2 instance on-premises using SSH Key?🤔](https://youtu.be/MDpnLnPuQMY)
 #### 📫 How to reach me **Fawazmayyil80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
