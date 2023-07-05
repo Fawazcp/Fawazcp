@@ -5,13 +5,13 @@
 <h3 align="center">I am passionate about cloud computing and DevOps </h3>
 
 
-- 🌱 I’m currently learning **AWS, and DevOps**
+ 🌱 I’m currently learning **AWS, and DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fawazcp](https://github.com/Fawazcp)
+ 👨‍💻 All of my projects are available at [https://github.com/Fawazcp](https://github.com/Fawazcp)
 
-- 📝 I write blogs on [https://medium.com/@fawazcp](https://medium.com/@fawazcp)
+ 📝 I write blogs on [https://medium.com/@fawazcp](https://medium.com/@fawazcp)
 
-
+ <div id="header" align="left">
 
 # AWS
 
