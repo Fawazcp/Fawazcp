@@ -47,6 +47,10 @@
 - [Docker CI/CD (Continuous Integration/ Continuous Delivery) with Jenkins.](https://medium.com/cloudnloud/docker-ci-cd-continuous-integration-continuous-delivery-with-jenkins-2bcf5801efe3)
 
 
+# PYTHON
+
+-   [PYTHON INTRODUCTION](https://medium.com/cloudnloud/python-introduction-a44ca423a73f)
+
 #### 📫 How to reach me **Fawazmayyil80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
