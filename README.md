@@ -53,7 +53,7 @@
 # PYTHON
 
 -   [PYTHON INTRODUCTION](https://medium.com/cloudnloud/python-introduction-a44ca423a73f)
-
+- [Python Quotes & Comments](https://medium.com/cloudnloud/python-quotes-comments-4a638bd0826e)
 
 
 # Vlogs
