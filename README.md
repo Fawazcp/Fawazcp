@@ -57,7 +57,7 @@
 - [PYTHON VARIABLES](https://medium.com/cloudnloud/python-variables-532b5f6f08cf)
 - [Python Lists, Tuples, Dictionaries & Boolean](https://medium.com/cloudnloud/python-lists-tuples-dictionaries-boolean-543b370498eb)
 - [Different Ways of Print in Python](https://medium.com/cloudnloud/different-ways-of-print-in-python-658796edb90b)
-
+- [Python Slicing](https://medium.com/cloudnloud/python-slicing-35e9dbdf38dc)
 
 # Vlogs
 
