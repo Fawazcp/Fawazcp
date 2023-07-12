@@ -66,11 +66,14 @@
 
 # Certification
 
+<div style="display:flex;">
+
 ![134_3_2311816_1665028601_AWS Course Completion Certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/07222bea-9e38-44a5-892d-69ac136b5119)
 
 
 ![234_3_2311816_1667831852_AWS Course Completion Certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/018b3bb9-4f90-4a40-8771-d3cd88a23818)
 
+</div>
 
 ![12439_3_2311816_1665305099_AWS Course Completion Certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/0a805c05-caa4-4934-abc8-cbae3d41a7cb)
 
