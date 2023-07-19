@@ -2,12 +2,10 @@
  <div id="header" align="center"> <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 
 <h1 align="center">Hi 👋, I'm Fawaz</h1>
-<h3 align="center">I am passionate about cloud computing and DevOps </h3>
+<h3 align="center"> I am an AWS Community Builder and core team member of CloudnLoud Tech Community. I am passionate about cloud computing and DevOps </h3>
 
 
  🌱 I’m currently learning **AWS, and DevOps**
-
- 👨‍💻 All of my projects are available at [https://github.com/Fawazcp](https://github.com/Fawazcp)
 
  📝 I write blogs on [https://medium.com/@fawazcp](https://medium.com/@fawazcp)
 
@@ -58,11 +56,15 @@
 - [Python Lists, Tuples, Dictionaries & Boolean](https://medium.com/cloudnloud/python-lists-tuples-dictionaries-boolean-543b370498eb)
 - [Different Ways of Print in Python](https://medium.com/cloudnloud/different-ways-of-print-in-python-658796edb90b)
 - [Python Slicing](https://medium.com/cloudnloud/python-slicing-35e9dbdf38dc)
+- [Different Types of Operators in Python](https://medium.com/cloudnloud/different-types-of-operators-in-python-5ee31166bed5)
+- [Python Conditions](https://medium.com/cloudnloud/python-conditions-bbe7395048f3)
+- [Python For Loop & While Loop](https://medium.com/cloudnloud/python-for-loop-while-loop-437201f7cdb3)
 
 # Vlogs
 
 - [How to Set Up Ansible Lab in GCP (Google Cloud Platform)?](https://youtu.be/JgCG9OqSp8M)
 - [How to connect EC2 instance on-premises using SSH Key?🤔](https://youtu.be/MDpnLnPuQMY)
+- [Create Docker Image using Jenkins Pipeline and Upload to ECR](https://youtu.be/_cFvbAy6KTs)
 
 # Certification
 
