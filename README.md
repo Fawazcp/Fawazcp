@@ -59,7 +59,8 @@
 - [Different Types of Operators in Python](https://medium.com/cloudnloud/different-types-of-operators-in-python-5ee31166bed5)
 - [Python Conditions](https://medium.com/cloudnloud/python-conditions-bbe7395048f3)
 - [Python For Loop & While Loop](https://medium.com/cloudnloud/python-for-loop-while-loop-437201f7cdb3)
-
+- [Python Break & Continue](https://medium.com/cloudnloud/python-break-continue-f7f293d664cb)
+- [Python Built-in Functions or Method](https://medium.com/cloudnloud/python-built-in-functions-or-method-ba4255210e96)
 # Vlogs
 
 - [How to Set Up Ansible Lab in GCP (Google Cloud Platform)?](https://youtu.be/JgCG9OqSp8M)
