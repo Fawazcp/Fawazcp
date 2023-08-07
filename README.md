@@ -61,12 +61,25 @@
 - [Python For Loop & While Loop](https://medium.com/cloudnloud/python-for-loop-while-loop-437201f7cdb3)
 - [Python Break & Continue](https://medium.com/cloudnloud/python-break-continue-f7f293d664cb)
 - [Python Built-in Functions or Method](https://medium.com/cloudnloud/python-built-in-functions-or-method-ba4255210e96)
+- [Python Functions](https://medium.com/cloudnloud/python-functions-6ca30748c379)
+- [Python Modules](https://medium.com/cloudnloud/python-modules-da3f46a45f85)
 # Vlogs
 
 - [How to Set Up Ansible Lab in GCP (Google Cloud Platform)?](https://youtu.be/JgCG9OqSp8M)
 - [How to connect EC2 instance on-premises using SSH Key?🤔](https://youtu.be/MDpnLnPuQMY)
 - [Create Docker Image using Jenkins Pipeline and Upload to ECR](https://youtu.be/_cFvbAy6KTs)
 
+# Docker
+
+- [Docker Introduction & Set up](https://medium.com/cloudnloud/docker-introduction-set-up-5d78cd1037e4)
+
+# Meetups
+
+- https://bit.ly/3s9848c
+- https://bit.ly/3OtGqdA
+- https://bit.ly/3OoHGPd
+- https://bit.ly/3qoq4eA
+- https://bit.ly/3Qo90Qq
 # Certification
 
 
