@@ -72,6 +72,7 @@
 # Docker
 
 - [Docker Introduction & Set up](https://medium.com/cloudnloud/docker-introduction-set-up-5d78cd1037e4)
+- [Docker Commands and Concepts](https://medium.com/cloudnloud/docker-commands-and-concepts-25c6b7f184c3)
 
 # Meetups
 
