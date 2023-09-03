@@ -70,9 +70,20 @@
 - [Create Docker Image using Jenkins Pipeline and Upload to ECR](https://youtu.be/_cFvbAy6KTs)
 
 # Docker
-
 - [Docker Introduction & Set up](https://medium.com/cloudnloud/docker-introduction-set-up-5d78cd1037e4)
 - [Docker Commands and Concepts](https://medium.com/cloudnloud/docker-commands-and-concepts-25c6b7f184c3)
+- [Docker Logs](https://medium.com/cloudnloud/docker-logs-f2d3b0c23af8)
+- [Build a Custom Docker Image](https://medium.com/cloudnloud/build-a-custom-docker-image-6ee59ed73fc3)
+- [Docker Compose](https://medium.com/cloudnloud/docker-compose-92cd091e26ef)
+
+# Kubernetes
+- [Set up K8s Cluster with Minikube](https://medium.com/cloudnloud/set-up-k8s-cluster-with-minikube-efa4ad937f24)
+- [Set up K8s cluster with Kops](https://medium.com/cloudnloud/set-up-k8s-cluster-with-kops-62ebe8f732bd)
+- [What is K8s Pod & How to Create a Pod](https://medium.com/cloudnloud/what-is-k8s-pod-how-to-create-a-pod-5b10d958eb97)
+- [Kubernetes Service](https://medium.com/cloudnloud/kubernetes-service-ac7c9db1b490)
+- [Kubernetes ReplicaSet](https://medium.com/cloudnloud/kubernetes-replicaset-c98230d67f6a)
+- [Kubernetes Deployment](https://medium.com/cloudnloud/kubernetes-deployment-6215410527eb)
+
 
 # Meetups
 
