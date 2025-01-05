@@ -2,7 +2,7 @@
  <div id="header" align="center"> <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 
 <h1 align="center">Hi 👋, I'm Fawaz</h1>
-<h3 align="center"> I am a DevOps Engineer, AWS Community Builder, AWS SAA C03 Certified . I am passionate about cloud computing and DevOps </h3>
+<h3 align="center"> I am a Cloud Engineer, AWS Community Builder, AWS SAA C03 Certified . I am passionate about cloud computing and DevOps </h3>
 
 
  🌱 I’m currently learning **AWS, and DevOps**
