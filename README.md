@@ -1,19 +1,63 @@
+<div align="center">
 
- <div id="header" align="center"> <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Welcome animation" />
 
-<h1 align="center">Hi 👋, I'm Fawaz</h1>
-<h3 align="center"> I am a DevOps Engineer, AWS Community Builder, AWS DevOps Professional Certified . I am passionate about cloud computing, AI and DevOps </h3>
+# Hi 👋, I'm Fawaz
 
+### DevOps Engineer · AWS Community Builder · AWS DevOps Professional Certified
 
- 🌱 I’m currently learning **AWS, and DevOps**
+I'm passionate about cloud computing, AI and DevOps, and I write about what I learn along the way.
 
- 📝 I write blogs on [https://medium.com/@fawazcp](https://medium.com/@fawazcp)
+<a href="https://linkedin.com/in/fawazcp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@fawazcp" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="mailto:Fawazmayyil80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
- <div id="header" align="left">
+</div>
 
-# AWS
+---
 
-- [How to create an Ec2 Instance](https://medium.com/cloudnloud/how-to-create-an-ec2-instance-1eaa6858a5c9)
+## 👨‍💻 About me
+
+- 🌱 Always learning: currently going deeper into **AWS and DevOps**
+- 📝 I write hands-on tutorials on [Medium](https://medium.com/@fawazcp) and on the [Cloudnloud](https://medium.com/cloudnloud) publication
+- 💬 Ask me about AWS, CI/CD, containers and automation
+- 📫 Reach me at **Fawazmayyil80@gmail.com**
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+</p>
+
+## 🚀 Projects
+
+| Project | Description |
+| --- | --- |
+| [aws-Lift & Shift](https://github.com/Fawazcp/aws-project/tree/aws-LiftAndShift) | Lift-and-shift project on AWS |
+| [Refactoring with AWS](https://github.com/Fawazcp/aws-project/tree/aws-Refactor) | Refactoring project on AWS |
+| [Continuous Integration (CI) with Jenkins](https://medium.com/cloudnloud/continuous-integration-ci-with-jenkins-844d1ef7d82a) | CI pipeline with Jenkins |
+| [Docker Continuous Integration (CI) with Jenkins](https://medium.com/cloudnloud/docker-continuous-integration-ci-with-jenkins-35c73c952f3b) | CI for Docker images with Jenkins |
+| [Docker CI/CD with Jenkins](https://medium.com/cloudnloud/docker-ci-cd-continuous-integration-continuous-delivery-with-jenkins-2bcf5801efe3) | Continuous Integration and Delivery for Docker with Jenkins |
+
+## ✍️ Blog articles
+
+Click a topic to expand it.
+
+<details>
+<summary><b>☁️ AWS</b></summary>
+
+<br>
+
+- [How to create an EC2 Instance](https://medium.com/cloudnloud/how-to-create-an-ec2-instance-1eaa6858a5c9)
 - [My First S3 Bucket](https://medium.com/@fawazcp/my-first-s3-bucket-83e3cfb14f28)
 - [Create a Simple Monitoring with CloudWatch](https://medium.com/@fawazcp/create-a-simple-monitoring-with-cloudwatch-1fa3169ba5a1)
 - [IAM [Identity & Access Management]](https://medium.com/cloudnloud/iam-identity-access-management-5b86e18216dd)
@@ -28,8 +72,39 @@
 - [How to connect your Private machine using NAT instance/gateway](https://medium.com/cloudnloud/vpc-virtual-private-cloud-hands-on-4d530bd745ba)
 - [How to connect VPCs using Transit Gateway](https://medium.com/cloudnloud/how-to-connect-vpcs-using-transit-gateway-91aee756267e)
 
+</details>
 
-# ANSIBLE
+<details>
+<summary><b>🐳 Docker</b></summary>
+
+<br>
+
+- [Docker Introduction & Set up](https://medium.com/cloudnloud/docker-introduction-set-up-5d78cd1037e4)
+- [Docker Commands and Concepts](https://medium.com/cloudnloud/docker-commands-and-concepts-25c6b7f184c3)
+- [Docker Logs](https://medium.com/cloudnloud/docker-logs-f2d3b0c23af8)
+- [Build a Custom Docker Image](https://medium.com/cloudnloud/build-a-custom-docker-image-6ee59ed73fc3)
+- [Docker Compose](https://medium.com/cloudnloud/docker-compose-92cd091e26ef)
+
+</details>
+
+<details>
+<summary><b>☸️ Kubernetes</b></summary>
+
+<br>
+
+- [Set up K8s Cluster with Minikube](https://medium.com/cloudnloud/set-up-k8s-cluster-with-minikube-efa4ad937f24)
+- [Set up K8s cluster with Kops](https://medium.com/cloudnloud/set-up-k8s-cluster-with-kops-62ebe8f732bd)
+- [What is K8s Pod & How to Create a Pod](https://medium.com/cloudnloud/what-is-k8s-pod-how-to-create-a-pod-5b10d958eb97)
+- [Kubernetes Service](https://medium.com/cloudnloud/kubernetes-service-ac7c9db1b490)
+- [Kubernetes ReplicaSet](https://medium.com/cloudnloud/kubernetes-replicaset-c98230d67f6a)
+- [Kubernetes Deployment](https://medium.com/cloudnloud/kubernetes-deployment-6215410527eb)
+
+</details>
+
+<details>
+<summary><b>⚙️ Ansible</b></summary>
+
+<br>
 
 - [How to Set Up Ansible Lab in GCP (Google Cloud Platform)](https://medium.com/cloudnloud/how-to-set-up-ansible-lab-in-gcp-google-cloud-platform-bb93be363664)
 - [My First Ansible Playbook](https://medium.com/cloudnloud/my-first-ansible-playbook-1da448e1c8ba)
@@ -38,21 +113,16 @@
 - [Create Free Ansible Lab in AWS Account](https://medium.com/cloudnloud/create-free-ansible-lab-in-aws-account-6c5c96b2fd47)
 - [How to create Users and Groups in Ansible](https://medium.com/cloudnloud/how-to-create-users-and-groups-in-ansible-8280fb703fad)
 
+</details>
 
-# PROJECTS
+<details>
+<summary><b>🐍 Python</b></summary>
 
--   [aws-Lift & Shift](https://github.com/Fawazcp/aws-project/tree/aws-LiftAndShift)
--   [Refactoring with AWS](https://github.com/Fawazcp/aws-project/tree/aws-Refactor)
--   [Continuous Integration (CI) with Jenkins](https://medium.com/cloudnloud/continuous-integration-ci-with-jenkins-844d1ef7d82a)
--  [ Docker Continuous Integration(CI) with Jenkins](https://medium.com/cloudnloud/docker-continuous-integration-ci-with-jenkins-35c73c952f3b)
-- [Docker CI/CD (Continuous Integration/ Continuous Delivery) with Jenkins.](https://medium.com/cloudnloud/docker-ci-cd-continuous-integration-continuous-delivery-with-jenkins-2bcf5801efe3)
+<br>
 
-
-# PYTHON
-
--   [PYTHON INTRODUCTION](https://medium.com/cloudnloud/python-introduction-a44ca423a73f)
+- [Python Introduction](https://medium.com/cloudnloud/python-introduction-a44ca423a73f)
 - [Python Quotes & Comments](https://medium.com/cloudnloud/python-quotes-comments-4a638bd0826e)
-- [PYTHON VARIABLES](https://medium.com/cloudnloud/python-variables-532b5f6f08cf)
+- [Python Variables](https://medium.com/cloudnloud/python-variables-532b5f6f08cf)
 - [Python Lists, Tuples, Dictionaries & Boolean](https://medium.com/cloudnloud/python-lists-tuples-dictionaries-boolean-543b370498eb)
 - [Different Ways of Print in Python](https://medium.com/cloudnloud/different-ways-of-print-in-python-658796edb90b)
 - [Python Slicing](https://medium.com/cloudnloud/python-slicing-35e9dbdf38dc)
@@ -64,64 +134,46 @@
 - [Python Functions](https://medium.com/cloudnloud/python-functions-6ca30748c379)
 - [Python Modules](https://medium.com/cloudnloud/python-modules-da3f46a45f85)
 
+</details>
 
-# Docker
-- [Docker Introduction & Set up](https://medium.com/cloudnloud/docker-introduction-set-up-5d78cd1037e4)
-- [Docker Commands and Concepts](https://medium.com/cloudnloud/docker-commands-and-concepts-25c6b7f184c3)
-- [Docker Logs](https://medium.com/cloudnloud/docker-logs-f2d3b0c23af8)
-- [Build a Custom Docker Image](https://medium.com/cloudnloud/build-a-custom-docker-image-6ee59ed73fc3)
-- [Docker Compose](https://medium.com/cloudnloud/docker-compose-92cd091e26ef)
+## 🎤 Meetups & Community
 
-# Kubernetes
-- [Set up K8s Cluster with Minikube](https://medium.com/cloudnloud/set-up-k8s-cluster-with-minikube-efa4ad937f24)
-- [Set up K8s cluster with Kops](https://medium.com/cloudnloud/set-up-k8s-cluster-with-kops-62ebe8f732bd)
-- [What is K8s Pod & How to Create a Pod](https://medium.com/cloudnloud/what-is-k8s-pod-how-to-create-a-pod-5b10d958eb97)
-- [Kubernetes Service](https://medium.com/cloudnloud/kubernetes-service-ac7c9db1b490)
-- [Kubernetes ReplicaSet](https://medium.com/cloudnloud/kubernetes-replicaset-c98230d67f6a)
-- [Kubernetes Deployment](https://medium.com/cloudnloud/kubernetes-deployment-6215410527eb)
+<!-- TODO: replace each label below with the real event title, e.g. "AWS Community Day: <topic>" -->
 
+- [Meetup 1](https://bit.ly/3s9848c)
+- [Meetup 2](https://bit.ly/3OtGqdA)
+- [Meetup 3](https://bit.ly/3OoHGPd)
+- [Meetup 4](https://bit.ly/3qoq4eA)
+- [Meetup 5](https://bit.ly/3Qo90Qq)
 
-# Meetups
+## 🏅 Certifications
 
-- https://bit.ly/3s9848c
-- https://bit.ly/3OtGqdA
-- https://bit.ly/3OoHGPd
-- https://bit.ly/3qoq4eA
-- https://bit.ly/3Qo90Qq
-# Certification
+<details>
+<summary><b>View certificates</b></summary>
 
+<br>
 
-![134_3_2311816_1665028601_AWS Course Completion Certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/07222bea-9e38-44a5-892d-69ac136b5119)
+<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/07222bea-9e38-44a5-892d-69ac136b5119" width="45%" alt="AWS course completion certificate" />
+<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/018b3bb9-4f90-4a40-8771-d3cd88a23818" width="45%" alt="AWS course completion certificate" />
+<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/0a805c05-caa4-4934-abc8-cbae3d41a7cb" width="45%" alt="AWS course completion certificate" />
+<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/784902c8-56bb-457b-a49d-2f749beec27c" width="45%" alt="AWS APAC course completion certificate" />
+<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/0626c75e-c5fd-4345-8cf0-0e381ed5c2a6" width="45%" alt="Completion certificate" />
 
-![234_3_2311816_1667831852_AWS Course Completion Certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/018b3bb9-4f90-4a40-8771-d3cd88a23818)
+</details>
 
+## 📊 GitHub stats
 
-![12439_3_2311816_1665305099_AWS Course Completion Certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/0a805c05-caa4-4934-abc8-cbae3d41a7cb)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fawazcp&show_icons=true&locale=en&layout=compact" alt="Fawaz's most used languages" />
+</p>
 
-![kkE9HyeNcw6rwCRGw_AWS APAC_CPP68tjfBsdTJDJDM_1665917073332_completion_certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/784902c8-56bb-457b-a49d-2f749beec27c) 
-![certificate_page-0001](https://github.com/Fawazcp/Fawazcp/assets/111639918/0626c75e-c5fd-4345-8cf0-0e381ed5c2a6)
+---
 
+<div align="center">
 
-#### 📫 How to reach me **Fawazmayyil80@gmail.com**
+### 🤝 Let's connect
 
-## Connect with Me & Community 🤝🏻! 
-<a href="https://github.com/Fawazcp" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<a href="https://github.com/Fawazcp" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/fawazcp" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<a href="https://linkedin.com/in/fawazcp" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawazcp&show_icons=true&locale=en&layout=compact" alt="fawazcp" /></p>
-
-
-
-
-
-
+</div>
