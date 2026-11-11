@@ -121,7 +121,7 @@ fawaz@devops:~$ ls ~/writing | wc -l
 
 ## ✍️ DevOps and AWS, written down
 
-I write hands-on tutorials on [Medium](https://medium.com/@fawazcp) and the [Cloudnloud](https://medium.com/cloudnloud) publication. The full, up-to-date index (AWS, Kubernetes, Python, AI agents, Docker, CI/CD, Terraform, Ansible and more) is on my **[portfolio](https://d3nu7l0cp86uzf.cloudfront.net/)**. A selection by topic:
+I write hands-on tutorials on [Medium](https://medium.com/@fawazcp). The full, up-to-date index (AWS, Kubernetes, Python, AI agents, Docker, CI/CD, Terraform, Ansible and more) is on my **[portfolio](https://d3nu7l0cp86uzf.cloudfront.net/)**. A selection by topic:
 
 <details>
 <summary><b>☁️ AWS</b></summary>
