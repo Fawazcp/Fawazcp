@@ -25,7 +25,7 @@
 
 ```bash
 fawaz@devops:~$ whoami
-Fawaz C P · DevOps engineer · AWS Community Builder (DevOps category)
+Fawaz C P · DevOps engineer · AWS Community Builder
 
 fawaz@devops:~$ cat focus.txt
 AWS  Kubernetes  Terraform  Docker  Python  CI/CD  Ansible  AI agents
