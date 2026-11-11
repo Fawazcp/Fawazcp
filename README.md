@@ -70,7 +70,7 @@ fawaz@devops:~$ ls ~/writing | wc -l
 ## 🛠️ Tech stack
 
 **Cloud**&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" width="40" height="40"/>
 
@@ -220,7 +220,7 @@ I write hands-on tutorials on [Medium](https://medium.com/@fawazcp) and the [Clo
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fawazcp&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=050A07&title_color=4ADE80" alt="Fawaz's most used languages" />
+  <img src="https://streak-stats.demolab.com/?user=Fawazcp&hide_border=true&background=050A07&ring=4ADE80&fire=4ADE80&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=4ADE80&sideLabels=4ADE80&dates=8B949E&stroke=1F2A24" alt="Fawaz's GitHub contribution streak" />
 </p>
 
 ---
