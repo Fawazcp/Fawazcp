@@ -1,56 +1,127 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Welcome animation" />
+<a href="https://d3nu7l0cp86uzf.cloudfront.net/" target="_blank">
+  <img src="https://images.weserv.nl/?url=github.com/Fawazcp.png&w=300&h=300&fit=cover&mask=circle" width="180" alt="Fawaz C P, DevOps Engineer" />
+</a>
 
-# Hi 👋, I'm Fawaz
+# Fawaz C P
 
-### DevOps Engineer · AWS Community Builder · AWS DevOps Professional Certified
+### DevOps Engineer · AWS Community Builder · 2× AWS Certified · Azure AZ-900
 
-I'm passionate about cloud computing, AI and DevOps, and I write about what I learn along the way.
+<a href="https://d3nu7l0cp86uzf.cloudfront.net/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=4ADE80&center=true&vCenter=true&width=640&height=40&lines=DevOps+and+AWS%2C+written+down.;AWS+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+Docker+%C2%B7+Python;AWS+Community+Builder+%28DevOps+category%29;Writing+about+AI+agents+and+CI%2FCD" alt="DevOps and AWS, written down." />
+</a>
 
-<a href="https://linkedin.com/in/fawazcp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<br>
+
+<a href="https://d3nu7l0cp86uzf.cloudfront.net/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-050A07?style=for-the-badge&logo=gnometerminal&logoColor=4ADE80" alt="Portfolio" /></a>
 <a href="https://medium.com/@fawazcp" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://linkedin.com/in/fawazcp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:Fawazmayyil80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About me
+```bash
+fawaz@devops:~$ whoami
+Fawaz C P · DevOps engineer · AWS Community Builder (DevOps category)
 
-- 🌱 Always learning: currently going deeper into **AWS and DevOps**
-- 📝 I write hands-on tutorials on [Medium](https://medium.com/@fawazcp) and on the [Cloudnloud](https://medium.com/cloudnloud) publication
-- 💬 Ask me about AWS, CI/CD, containers and automation
-- 📫 Reach me at **Fawazmayyil80@gmail.com**
+fawaz@devops:~$ cat focus.txt
+AWS  Kubernetes  Terraform  Docker  Python  CI/CD  Ansible  AI agents
 
-## 🛠️ Languages and Tools
+fawaz@devops:~$ ls ~/writing | wc -l
+80+ articles on Medium, indexed on my portfolio
+```
 
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
+## 🏅 Credentials
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Community_Builder_(DevOps)-FF9900?style=flat-square" alt="AWS Community Builder, DevOps category" />
+  <img src="https://img.shields.io/badge/AWS_Certified-DevOps_Engineer_Professional-FF9900?style=flat-square" alt="AWS Certified DevOps Engineer Professional" />
+  <img src="https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-FF9900?style=flat-square" alt="AWS Certified Solutions Architect Associate" />
+  <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_Fundamentals_AZ--900-0078D4?style=flat-square" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" />
 </p>
 
-## 🚀 Projects
+<details>
+<summary><b>Training badges (AI and agents)</b></summary>
 
-| Project | Description |
-| --- | --- |
-| [aws-Lift & Shift](https://github.com/Fawazcp/aws-project/tree/aws-LiftAndShift) | Lift-and-shift project on AWS |
-| [Refactoring with AWS](https://github.com/Fawazcp/aws-project/tree/aws-Refactor) | Refactoring project on AWS |
-| [Continuous Integration (CI) with Jenkins](https://medium.com/cloudnloud/continuous-integration-ci-with-jenkins-844d1ef7d82a) | CI pipeline with Jenkins |
-| [Docker Continuous Integration (CI) with Jenkins](https://medium.com/cloudnloud/docker-continuous-integration-ci-with-jenkins-35c73c952f3b) | CI for Docker images with Jenkins |
-| [Docker CI/CD with Jenkins](https://medium.com/cloudnloud/docker-ci-cd-continuous-integration-continuous-delivery-with-jenkins-2bcf5801efe3) | Continuous Integration and Delivery for Docker with Jenkins |
+<br>
 
-## ✍️ Blog articles
+- **Anthropic:** Claude Code in Action · AI Fluency: Framework & Foundations · Claude 101
+- **BeSA Cloud Academy:** Anatomy of an AI Agent · Model Context Protocol in Practice · Building at Scale with Bedrock AgentCore · Designing with Strands Agents
+- **AWS:** SimuLearn AI Practitioner (training badge)
 
-Click a topic to expand it.
+</details>
+
+<details>
+<summary><b>AWS course completion certificates</b></summary>
+
+<br>
+
+<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/07222bea-9e38-44a5-892d-69ac136b5119" width="45%" alt="AWS course completion certificate" />
+<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/018b3bb9-4f90-4a40-8771-d3cd88a23818" width="45%" alt="AWS course completion certificate" />
+<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/0a805c05-caa4-4934-abc8-cbae3d41a7cb" width="45%" alt="AWS course completion certificate" />
+<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/784902c8-56bb-457b-a49d-2f749beec27c" width="45%" alt="AWS APAC course completion certificate" />
+<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/0626c75e-c5fd-4345-8cf0-0e381ed5c2a6" width="45%" alt="Completion certificate" />
+
+</details>
+
+## 🛠️ Tech stack
+
+**Cloud**&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" width="40" height="40"/>
+
+**Containers**&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
+
+**IaC and CI/CD**&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="40" height="40"/>
+
+**Languages and OS**&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
+
+**Databases**&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+
+**AI agents**&nbsp;&nbsp;Model Context Protocol · Amazon Bedrock AgentCore · Strands Agents
+
+## 🚀 Featured projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Migrate-docker_images-gar-ecr](https://github.com/Fawazcp/Migrate-docker_images-gar-ecr) | Migrates 1 TB of Docker images from Google Artifact Registry to Amazon ECR | Python |
+| [AWS_3_Tier_using_Terraform](https://github.com/Fawazcp/AWS_3_Tier_using_Terraform) | A three-tier AWS setup in Terraform | HCL |
+| [terraform_project-eks](https://github.com/Fawazcp/terraform_project-eks) | An EKS cluster provisioned with Terraform | HCL |
+| [meeting-action-items](https://github.com/Fawazcp/meeting-action-items) | Turns meeting notes into action items; built for the AWS Builder Center Weekend Challenge | Shell |
+| [priorly](https://github.com/Fawazcp/priorly) | An AI task prioritizer app | HTML |
+| [git-command-tutorial](https://github.com/Fawazcp/git-command-tutorial) | Everyday Git commands for DevOps work | Python |
+
+<details>
+<summary><b>More projects</b></summary>
+
+<br>
+
+- [aws-Lift & Shift](https://github.com/Fawazcp/aws-project/tree/aws-LiftAndShift)
+- [Refactoring with AWS](https://github.com/Fawazcp/aws-project/tree/aws-Refactor)
+- [Continuous Integration (CI) with Jenkins](https://medium.com/cloudnloud/continuous-integration-ci-with-jenkins-844d1ef7d82a)
+- [Docker Continuous Integration (CI) with Jenkins](https://medium.com/cloudnloud/docker-continuous-integration-ci-with-jenkins-35c73c952f3b)
+- [Docker CI/CD (Continuous Integration / Continuous Delivery) with Jenkins](https://medium.com/cloudnloud/docker-ci-cd-continuous-integration-continuous-delivery-with-jenkins-2bcf5801efe3)
+
+</details>
+
+## ✍️ DevOps and AWS, written down
+
+I write hands-on tutorials on [Medium](https://medium.com/@fawazcp) and the [Cloudnloud](https://medium.com/cloudnloud) publication. The full, up-to-date index (AWS, Kubernetes, Python, AI agents, Docker, CI/CD, Terraform, Ansible and more) is on my **[portfolio](https://d3nu7l0cp86uzf.cloudfront.net/)**. A selection by topic:
 
 <details>
 <summary><b>☁️ AWS</b></summary>
@@ -75,19 +146,6 @@ Click a topic to expand it.
 </details>
 
 <details>
-<summary><b>🐳 Docker</b></summary>
-
-<br>
-
-- [Docker Introduction & Set up](https://medium.com/cloudnloud/docker-introduction-set-up-5d78cd1037e4)
-- [Docker Commands and Concepts](https://medium.com/cloudnloud/docker-commands-and-concepts-25c6b7f184c3)
-- [Docker Logs](https://medium.com/cloudnloud/docker-logs-f2d3b0c23af8)
-- [Build a Custom Docker Image](https://medium.com/cloudnloud/build-a-custom-docker-image-6ee59ed73fc3)
-- [Docker Compose](https://medium.com/cloudnloud/docker-compose-92cd091e26ef)
-
-</details>
-
-<details>
 <summary><b>☸️ Kubernetes</b></summary>
 
 <br>
@@ -102,16 +160,15 @@ Click a topic to expand it.
 </details>
 
 <details>
-<summary><b>⚙️ Ansible</b></summary>
+<summary><b>🐳 Docker</b></summary>
 
 <br>
 
-- [How to Set Up Ansible Lab in GCP (Google Cloud Platform)](https://medium.com/cloudnloud/how-to-set-up-ansible-lab-in-gcp-google-cloud-platform-bb93be363664)
-- [My First Ansible Playbook](https://medium.com/cloudnloud/my-first-ansible-playbook-1da448e1c8ba)
-- [How to Avoid Syntax Errors in Ansible-Playbook](https://medium.com/cloudnloud/how-to-avoid-syntax-errors-in-ansible-playbook-e48a1c734600)
-- [How to Install Multiple Packages in Ansible](https://medium.com/cloudnloud/how-to-install-multiple-packages-in-ansible-e639a7fa13c5)
-- [Create Free Ansible Lab in AWS Account](https://medium.com/cloudnloud/create-free-ansible-lab-in-aws-account-6c5c96b2fd47)
-- [How to create Users and Groups in Ansible](https://medium.com/cloudnloud/how-to-create-users-and-groups-in-ansible-8280fb703fad)
+- [Docker Introduction & Set up](https://medium.com/cloudnloud/docker-introduction-set-up-5d78cd1037e4)
+- [Docker Commands and Concepts](https://medium.com/cloudnloud/docker-commands-and-concepts-25c6b7f184c3)
+- [Docker Logs](https://medium.com/cloudnloud/docker-logs-f2d3b0c23af8)
+- [Build a Custom Docker Image](https://medium.com/cloudnloud/build-a-custom-docker-image-6ee59ed73fc3)
+- [Docker Compose](https://medium.com/cloudnloud/docker-compose-92cd091e26ef)
 
 </details>
 
@@ -136,6 +193,20 @@ Click a topic to expand it.
 
 </details>
 
+<details>
+<summary><b>⚙️ Ansible</b></summary>
+
+<br>
+
+- [How to Set Up Ansible Lab in GCP (Google Cloud Platform)](https://medium.com/cloudnloud/how-to-set-up-ansible-lab-in-gcp-google-cloud-platform-bb93be363664)
+- [My First Ansible Playbook](https://medium.com/cloudnloud/my-first-ansible-playbook-1da448e1c8ba)
+- [How to Avoid Syntax Errors in Ansible-Playbook](https://medium.com/cloudnloud/how-to-avoid-syntax-errors-in-ansible-playbook-e48a1c734600)
+- [How to Install Multiple Packages in Ansible](https://medium.com/cloudnloud/how-to-install-multiple-packages-in-ansible-e639a7fa13c5)
+- [Create Free Ansible Lab in AWS Account](https://medium.com/cloudnloud/create-free-ansible-lab-in-aws-account-6c5c96b2fd47)
+- [How to create Users and Groups in Ansible](https://medium.com/cloudnloud/how-to-create-users-and-groups-in-ansible-8280fb703fad)
+
+</details>
+
 ## 🎤 Meetups & Community
 
 <!-- TODO: replace each label below with the real event title, e.g. "AWS Community Day: <topic>" -->
@@ -146,34 +217,22 @@ Click a topic to expand it.
 - [Meetup 4](https://bit.ly/3qoq4eA)
 - [Meetup 5](https://bit.ly/3Qo90Qq)
 
-## 🏅 Certifications
-
-<details>
-<summary><b>View certificates</b></summary>
-
-<br>
-
-<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/07222bea-9e38-44a5-892d-69ac136b5119" width="45%" alt="AWS course completion certificate" />
-<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/018b3bb9-4f90-4a40-8771-d3cd88a23818" width="45%" alt="AWS course completion certificate" />
-<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/0a805c05-caa4-4934-abc8-cbae3d41a7cb" width="45%" alt="AWS course completion certificate" />
-<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/784902c8-56bb-457b-a49d-2f749beec27c" width="45%" alt="AWS APAC course completion certificate" />
-<img src="https://github.com/Fawazcp/Fawazcp/assets/111639918/0626c75e-c5fd-4345-8cf0-0e381ed5c2a6" width="45%" alt="Completion certificate" />
-
-</details>
-
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fawazcp&show_icons=true&locale=en&layout=compact" alt="Fawaz's most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fawazcp&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=050A07&title_color=4ADE80" alt="Fawaz's most used languages" />
 </p>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's connect
+**Let's connect**
 
 <a href="https://github.com/Fawazcp" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/fawazcp" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@fawazcp" target="_blank"><img src="https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+
+<sub>Portfolio: <a href="https://d3nu7l0cp86uzf.cloudfront.net/">d3nu7l0cp86uzf.cloudfront.net</a></sub>
 
 </div>
